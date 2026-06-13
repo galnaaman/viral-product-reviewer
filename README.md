@@ -69,4 +69,6 @@ skills/
 
 ## Credits
 
-Principles by **Marc Lou** ([@marclou](https://x.com/marclou)).
+This skill is based entirely on the original article **[32 Principles of a Viral Product](https://x.com/i/web/status/2065385672991752210)** by **[Marc Lou](https://marclou.com)** ([@marclou](https://x.com/marclou)).
+
+Marc Lou is an indie hacker who has built and shipped 35+ products in public over 5 years. His principles come from watching hundreds of launches make $0 — and a few reach millions of people. Follow his work at [marclou.com](https://marclou.com) and on [X/Twitter](https://x.com/marclou).
