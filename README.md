@@ -1,5 +1,7 @@
 # Viral Product Reviewer — Agent Skill
 
+[![skills.sh](https://skills.sh/b/galnaaman/viral-product-reviewer)](https://skills.sh/galnaaman/viral-product-reviewer)
+
 Audit any landing page, website, or codebase against **Marc Lou's 32 Principles of a Viral Product** and get a scored Markdown report with prioritized, actionable improvements.
 
 Built for **indie hackers and builders** who want to ship products that actually spread.
@@ -9,7 +11,7 @@ Built for **indie hackers and builders** who want to ship products that actually
 ## Install
 
 ```bash
-curl -fsSL https://skills.sh/install | sh -s galnaaman/viral-product-reviewer
+npx skills add galnaaman/viral-product-reviewer
 ```
 
 ---
@@ -54,12 +56,13 @@ Based on Marc Lou's article: [32 Principles of a Viral Product](https://x.com/i/
 ## Skill Structure
 
 ```
-viral-product-reviewer/
-├── SKILL.md                        # Core skill instructions
-├── references/
-│   └── 32_principles.md            # Full list of all 32 principles
-└── templates/
-    └── report_template.md          # Pre-structured audit report template
+skills/
+└── viral-product-reviewer/
+    ├── SKILL.md                    # Core skill instructions
+    ├── references/
+    │   └── 32_principles.md        # Full list of all 32 principles
+    └── templates/
+        └── report_template.md      # Pre-structured audit report template
 ```
 
 ---

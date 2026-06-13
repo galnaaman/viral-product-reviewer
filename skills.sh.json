@@ -1,0 +1,12 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Marketing",
+      "description": "Skills for auditing and improving product marketing, landing pages, and virality.",
+      "skills": [
+        "viral-product-reviewer"
+      ]
+    }
+  ]
+}
